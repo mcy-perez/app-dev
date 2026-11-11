@@ -1,6 +1,3 @@
-# app-dev
-My first repository
-
 # My Favorite Series: Game of Thrones
 
 **Game of Thrones** is my favorite television series. It is a fantasy drama about different families fighting for power and control over the Iron Throne.
